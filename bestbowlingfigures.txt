@@ -1,0 +1,88 @@
+<html>
+<head>
+</head>
+<body>
+<table>
+<tr>
+<th>
+Pos	Player	Overs	Mdns	BBI	Econ	SR	Against	Venue	Match Date
+1	
+Sohail
+Tanvir
+ RR
+4.0	0	6/14	3.50	4.00	
+Sawai Mansingh Stadium	04 May 2008
+2	
+Adam Zampa
+ Rising Pune Supergiant
+4.0	0	6/19	4.75	4.00	
+ACA-VDCA Stadium	10 May 2016
+3	
+Anil Kumble
+ Royal Challengers Bangalore
+3.1	1	5/5	1.57	3.80	
+Newlands	18 April 2009
+4	
+Ishant Sharma
+ Deccan Chargers
+3.0	0	5/12	4.00	3.60	
+Jawaharlal Nehru Stadium	27 April 2011
+5	
+Lasith Malinga
+ Mumbai Indians
+3.4	1	5/13	3.54	4.40	
+Feroz Shah Kotla Ground	10 April 2011
+6	
+Ravindra Jadeja
+ Chennai Super Kings
+4.0	0	5/16	4.00	4.80	
+ACA-VDCA Stadium	07 April 2012
+7	
+James Faulkner
+ Rajasthan Royals
+4.0	1	5/16	4.00	4.80	
+Rajiv Gandhi Intl. Cricket Stadium	17 May 2013
+8	
+Amit Mishra
+ Delhi Daredevils
+4.0	0	5/17	4.25	4.80	
+Feroz Shah Kotla Ground	15 May 2008
+9	
+Andrew Tye
+ Gujarat Lions
+4.0	0	5/17	4.25	4.80	
+Saurashtra Cricket Association Stadium	14 April 2017
+10	
+Harbhajan Singh
+ Mumbai Indians
+4.0	0	5/18	4.50	4.80	
+Wankhede Stadium	22 April 2011
+Pos	Player	Overs	Mdns	BBI	Econ	SR	Against	Venue	Match Date
+11	
+Sunil Narine
+ Kolkata Knight Riders
+4.0	0	5/19	4.75	4.80	
+Eden Gardens	15 April 2012
+12	
+Bhuvneshwar Kumar
+ Sunrisers Hyderabad
+4.0	0	5/19	4.75	4.80	
+Rajiv Gandhi Intl. Cricket Stadium	17 April 2017
+13	
+James Faulkner
+ Rajasthan Royals
+4.0	0	5/20	5.00	4.80	
+Sawai Mansingh Stadium	27 April 2013
+14	
+Munaf Patel
+ Mumbai Indians
+4.0	0	5/21	5.25	4.80	
+IS Bindra Stadium	10 May 2011
+15	
+Lakshmipathy Balaji
+ Chennai Super Kings
+4.0	0	5/24	6.00	4.80	
+Chidambaram	10 May 2008
+<table>
+</body>
+</html>
